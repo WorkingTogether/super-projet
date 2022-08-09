@@ -1,4 +1,4 @@
-# Challenge : Fiche de lecture HTML & CSS
+# Challenge : Fiche de lecture HTML & CSS MODIFICATION
 
 Aujourd'hui, on s'exerce à structurer une page Web avec HTML puis on explore quelques possibilités de CSS.
 
